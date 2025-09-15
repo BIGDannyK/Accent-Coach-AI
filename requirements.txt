@@ -1,0 +1,10 @@
+# --- Azure SDK ---
+azure-cognitiveservices-speech>=1.37.0  # Speech SDK (Pronunciation Assessment용)
+
+# --- OpenAI SDK (Azure 지원) ---
+openai>=1.3.5
+
+# --- 유틸리티 ---
+python-dotenv>=1.0.0
+requests>=2.31.0
+
